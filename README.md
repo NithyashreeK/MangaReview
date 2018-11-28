@@ -1,3 +1,3 @@
 # MangaReview
 
-Let's review mangas!
+# Let's review mangas!
